@@ -29,7 +29,7 @@ The genetic algorithm optimization problem aims to find the best neural network 
 
 The EA algorithm has run for 50 generations and selected the best architecture. This architecture is shown in the table below and it is characterized by the following hyperparameters: 32 output channel for the CNN, a kernel of size 3 with a stride of 1 and padding of 1; the activation used is ReLU, while the pooling type is Maximum; lastly, the first linear layer has 70 neurons. In terms of performance, this architecture reaches a loss of 0.1930 and a classification error of 0.0604.
 <p align="center">
-  <img src="https://github.com/tommasomncttn/NAS4CNN/assets/91601166/dbf4411e-1885-444a-b7dd-4471a6032855" width="200" alt="Image">
+  <img src="https://github.com/tommasomncttn/NAS4CNN/assets/91601166/6f119c91-eec3-4c3b-89d3-90f69bcd0e4a" width="200" alt="Image">
 </p>
 
 
