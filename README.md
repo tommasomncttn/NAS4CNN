@@ -20,9 +20,9 @@ The genetic algorithm optimization problem aims to find the best neural network 
 
 ## Evolutionary Algorithm PseudoCode
 <p align="center">
-  <img src="https://github.com/tommasomncttn/NAS4CNN/assets/91601166/b4f921ad-8ac3-4e08-a430-1f6aba3d7478
-" width="550" alt="Image">
+  <img src="https://github.com/tommasomncttn/NAS4CNN/assets/91601166/b9272c80-6a3f-48f7-be3e-52599a26ea45" width="550" alt="Image">
 </p>
+
 
 
 ## Results
